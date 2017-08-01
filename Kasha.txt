@@ -2,4 +2,8 @@ Kazyava-shmazyava
 
 Kasha-shmasha
 
+<<<<<<< HEAD
 master
+=======
+experiment new
+>>>>>>> experiment
